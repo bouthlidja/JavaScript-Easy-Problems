@@ -10,3 +10,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 02.[ Palindrome Check](02-Palindrome-Check.js)
 
 03.[ Factorialize a Number](03-Factorialize-Number.js)
+
+04.[ Find the Longest Word in a String](04-Get-Longest-Word.js)
