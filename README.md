@@ -14,3 +14,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 04.[ Find the Longest Word in a String](04-Get-Longest-Word.js)
 
 05.[ Title Case a Sentence](05-Title-Case-Sentence.js)
+
+05.[ 06 Confirm the Ending](06-Confirm-Ending.js)
