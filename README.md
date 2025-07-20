@@ -12,3 +12,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 03.[ Factorialize a Number](03-Factorialize-Number.js)
 
 04.[ Find the Longest Word in a String](04-Get-Longest-Word.js)
+
+05.[ Title Case a Sentence](05-Title-Case-Sentence.js)
