@@ -18,3 +18,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 05.[ 06 Confirm the Ending](06-Confirm-Ending.js)
 
 05.[ 07 Repeat a String](07-Repeat-String.js)
+
+05.[ 08 Truncate a String](08-Truncate-String.js)
