@@ -22,3 +22,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 08.[ Truncate a String](08-Truncate-String.js)
 
 09.[ Finders Keepers](09-Finders-Keepers.js)
+
+10.[ Boo who](10-Boo-Who.js)
