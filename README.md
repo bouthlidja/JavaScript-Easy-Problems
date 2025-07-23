@@ -24,3 +24,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 09.[ Finders Keepers](09-Finders-Keepers.js)
 
 10.[ Boo who](10-Boo-Who.js)
+
+11.[ Sum All Numbers in a Range](11-Sum-Numbers-Range.js)
