@@ -30,3 +30,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 12.[ Diff Two Arrays](12-Diff-Two-Arrays.js)
 
 13.[ Seek and Destroy](13-Seek-Destroy.js)
+
+14.[ Where do I Belong](14-Where-Belong.js)
