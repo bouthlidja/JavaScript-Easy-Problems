@@ -28,3 +28,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 11.[ Sum All Numbers in a Range](11-Sum-Numbers-Range.js)
 
 12.[ Diff Two Arrays](12-Diff-Two-Arrays.js)
+
+13.[ Seek and Destroy](13-Seek-Destroy.js)
