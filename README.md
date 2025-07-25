@@ -36,3 +36,5 @@ The goal of the project is to strengthen fundamental understanding and algorithm
 15.[ Mutations](15-Mutations.js)
 
 16.[ Chunky Monkey](16-Chunky-Monkey.js)
+
+17.[ Falsy Bouncer](17-Falsy-Bouncer.js)
